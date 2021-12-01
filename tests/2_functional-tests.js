@@ -68,7 +68,7 @@ suite('Functional Tests', function () {
 });
 
 const Browser = require('zombie');
-Browser.site = 'https://boilerplate-mochachai.your-username.repl.co'; // Your URL here
+Browser.site = 'https://quality-assurance-freecodecamp.herokuapp.com/'; // Your URL here
 
 
 suite('Functional Tests with Zombie.js', function () {
